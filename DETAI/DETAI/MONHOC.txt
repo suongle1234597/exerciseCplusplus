@@ -1,0 +1,31 @@
+INT1319
+He dieu hanh
+INT1313
+Co so du lieu
+ELE1330
+Xu ly tin hieu so
+ELE1319
+Ly thuyet thong tin
+BAS1122
+Tu tuong Ho Chi Minh
+BAS1111
+Mac Lenin
+BAS1224
+Vat ly
+BAS1141
+Tieng Anh A2
+BAS1201
+Dai so
+BAS1203
+Giai tich
+BAS1226
+Xac suat thong ke
+INT1306
+Cau truc du lieu giai thuat
+ELE1433
+Ky thuat so
+INT1154
+Tin hoc co so
+INT1358
+Toan roi rac 2
+an roi rac 2

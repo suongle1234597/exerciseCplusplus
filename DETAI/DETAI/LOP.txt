@@ -1,0 +1,134 @@
+14
+D14CQDT01
+Dien Tu
+0
+D14CQKT02
+Kinh Te
+0
+D15CQCN01
+Cong Nghe Thong Tin
+0
+D15CQVT02
+Vien Thong
+0
+D16CQCN01
+Cong Nghe Thong Tin
+0
+D16CQCN03
+Cong Nghe Thong Tin
+9
+N16DCCN134
+Le Thi Hong
+Suong
+Nu
+suong
+1
+INT1358
+7.5
+4
+1
+0
+2
+1
+3
+2
+4
+3
+N16DCCN160
+Nguyen Thi Diem
+Thuy
+Nu
+thuy
+1
+INT1358
+4
+5
+1
+0
+2
+1
+3
+2
+4
+3
+8
+7
+N16DCCN148
+Huynh Thi Thanh
+Tuyen
+Nu
+tuyen
+0
+N16DCCN158
+Duong Thi Hong
+Tham
+Nu
+tham
+0
+N16DCCN122
+Le Van
+Quyet
+Nam
+quyet
+1
+INT1358
+2
+5
+1
+0
+2
+1
+3
+2
+4
+3
+8
+7
+N16DCCN123
+Phan Van
+Hung
+Nam
+hung
+0
+N16DCCN133
+Nguyen Hai
+Son
+Nam
+son
+0
+N16DCCN100
+Tran Minh
+Ngoc
+Nam
+ngoc
+0
+N16DCCN120
+Tran Nhu
+Quynh
+Nu
+quynh
+0
+D16CQKT01
+Kinh Te
+0
+D16CQVT01
+Vien Thong
+0
+D16CQVT02
+Vien Thong
+0
+D16CQVT02
+Vien Thong
+0
+D17CQCN03
+Cong Nghe Thong Tin
+0
+D17CQCN03
+Cong Nghe Thong Tin
+0
+D17CQQT03
+Quan Tri
+0
+D17CQQT03
+Quan Tri
+0
